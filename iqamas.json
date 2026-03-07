@@ -12,7 +12,7 @@
   "Dhuhr": {
     "isFixed": true,
     "minutes": -1,
-    "exactTime": "12:30 PM"
+    "exactTime": "01:30 PM"
   },
   "Asr": {
     "isFixed": false,
@@ -28,5 +28,15 @@
     "isFixed": false,
     "minutes": 10,
     "exactTime": ""
+  },
+  "First Khutba": {
+    "isFixed": true,
+    "minutes": -1,
+    "exactTime": "12:30 PM"
+  },
+  "Second Khutba": {
+    "isFixed": true,
+    "minutes": -1,
+    "exactTime": "01:30 PM"
   }
 }
